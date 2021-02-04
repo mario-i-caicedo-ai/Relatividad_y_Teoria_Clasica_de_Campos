@@ -21,7 +21,7 @@
 
 [Complemento a la Cl4](clases/CLASE_4_5_Intro_Rel_II_Lie_Algebra_Generators.pdf)
 
-[Cl5: El Grupo de Lorentz](clases/Clase_5_Intro_Rel_II_EL_Grupo_de_Lorentz (1).pdf)
+[Cl5: El Grupo de Lorentz](clases/Clase_5_Intro_Rel_II_EL_Grupo_de_Lorentz.pdf)
 
 [Complemento a la Cl5](clases/Clase_5_5_Intro_Rel_II_EL_Grupo_de_Lorentz (1).pdf)
 
