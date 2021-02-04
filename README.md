@@ -23,13 +23,13 @@
 
 [Cl5: El Grupo de Lorentz](clases/Clase_5_Intro_Rel_II_EL_Grupo_de_Lorentz.pdf)
 
-[Complemento a la Cl5](clases/Clase_5_5_Intro_Rel_II_EL_Grupo_de_Lorentz (1).pdf)
+[Complemento a la Cl5](clases/Clase_5_5_Intro_Rel_II_EL_Grupo_de_Lorentz.pdf)
 
 [Cl6: Espinores de Weyl](clases/Clase_6_Intro_Rel_II_Espinores_de_Weyl.pdf)
 
-[Cl7: Espinores de Dirac](clases/Clase_7_Intro_Rel_II_Espinores__de_Dirac (1).pdf)
+[Cl7: Espinores de Dirac](clases/Clase_7_Intro_Rel_II_Espinores__de_Dirac.pdf)
 
-[Cl8: Otras representaciones de SO(3)](clases/Clase_8_Intro_Rel_II_Otras_Reps__de_SO_1_3_ (2).pdf)
+[Cl8: Otras representaciones de SO(3)](clases/Clase_8_Intro_Rel_II_Otras_Representaciones_del_G__de_Lorentz.pdf)
 
 ## Como crear un folder nuevo:
 
