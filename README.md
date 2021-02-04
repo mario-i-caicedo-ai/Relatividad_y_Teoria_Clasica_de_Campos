@@ -11,6 +11,10 @@
 
 [Introducción](clases/CLASE_0_Intro_Rel_II_1_Welcome.pdf)
 
+{Electrodinámica y Relatividad II](clases/CLASE_2_Intro_Rel_II_1_Maxwell_II.pdf)
+
+[Introducción a los Grupos de Lie](clases/CLASE_3_Intro_Rel_II_Lie_Groups.pdf)
+
 ## Como crear un folder nuevo:
 
 * You cannot create an empty folder and then add files to that folder, but rather creation of a folder must happen together with adding of at least a single file. On GitHub you can do it this way:
