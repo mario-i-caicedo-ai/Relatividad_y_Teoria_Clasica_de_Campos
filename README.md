@@ -17,19 +17,19 @@
 
 [CL3: Introducción a los Grupos de Lie](clases/CLASE_3_Intro_Rel_II_Lie_Groups.pdf)
 
-[Cl4: Álgebras de Lie](CLASE_4_Intro_Rel_II_Lie_Algebras.pdf)
+[Cl4: Álgebras de Lie](clases/CLASE_4_Intro_Rel_II_Lie_Algebras.pdf)
 
-[Complemento a la Cl4](CLASE_4_5_Intro_Rel_II_Lie_Algebra_Generators.pdf)
+[Complemento a la Cl4](clases/CLASE_4_5_Intro_Rel_II_Lie_Algebra_Generators.pdf)
 
-[Cl5: El Grupo de Lorentz](Clase_5_Intro_Rel_II_EL_Grupo_de_Lorentz (1).pdf)
+[Cl5: El Grupo de Lorentz](clases/Clase_5_Intro_Rel_II_EL_Grupo_de_Lorentz (1).pdf)
 
-[Complemento a la Cl5](Clase_5_5_Intro_Rel_II_EL_Grupo_de_Lorentz (1).pdf)
+[Complemento a la Cl5](clases/Clase_5_5_Intro_Rel_II_EL_Grupo_de_Lorentz (1).pdf)
 
-[Cl6: Espinores de Weyl](Clase_6_Intro_Rel_II_Espinores_de_Weyl.pdf)
+[Cl6: Espinores de Weyl](clases/Clase_6_Intro_Rel_II_Espinores_de_Weyl.pdf)
 
-[Cl7: Espinores de Dirac](Clase_7_Intro_Rel_II_Espinores__de_Dirac (1).pdf)
+[Cl7: Espinores de Dirac](clases/Clase_7_Intro_Rel_II_Espinores__de_Dirac (1).pdf)
 
-[Cl8: Otras representaciones de SO(3)](Clase_8_Intro_Rel_II_Otras_Reps__de_SO_1_3_ (2).pdf)
+[Cl8: Otras representaciones de SO(3)](clases/Clase_8_Intro_Rel_II_Otras_Reps__de_SO_1_3_ (2).pdf)
 
 ## Como crear un folder nuevo:
 
