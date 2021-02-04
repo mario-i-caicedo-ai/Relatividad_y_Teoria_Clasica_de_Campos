@@ -25,7 +25,7 @@
 
 [Complemento a la Cl5](Clase_5_5_Intro_Rel_II_EL_Grupo_de_Lorentz (1).pdf)
 
-[Cl6: Espinored de Weyl](Clase_6_Intro_Rel_II_Espinores_de_Weyl.pdf)
+[Cl6: Espinores de Weyl](Clase_6_Intro_Rel_II_Espinores_de_Weyl.pdf)
 
 [Cl7: Espinores de Dirac](Clase_7_Intro_Rel_II_Espinores__de_Dirac (1).pdf)
 
