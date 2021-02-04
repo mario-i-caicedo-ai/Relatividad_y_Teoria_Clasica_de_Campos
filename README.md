@@ -9,6 +9,7 @@
 
 ## Clases
 
+[Introducción](clases/CLASE_0_Intro_Rel_II_1_Welcome.pdf)
 
 ## Como crear un folder nuevo:
 
