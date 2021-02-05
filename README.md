@@ -29,7 +29,7 @@
 
 [Cl7: Espinores de Dirac](clases/Clase_7_Intro_Rel_II_Espinores__de_Dirac.pdf)
 
-[Cl8: Otras representaciones de SO(3)](clases/Clase_8_Intro_Rel_II_Otras_Representaciones_del_G__de_Lorentz.pdf)
+[Cl8: Otras representaciones de SO(3)](Clase_8_Intro_Rel_II_Otras_Reps__de_SO_1_3_.pdf)
 
 ## Como crear un folder nuevo:
 
