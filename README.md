@@ -31,7 +31,7 @@
 
 [Cl8: Otras representaciones de SO(3)](clases/Clase_8_Intro_Rel_II_Otras_Reps__de_SO_1_3_.pdf)
 
-[Cl9: Grupo y Álgebra de Poincaré](Clase_9_Intro_Rel_II_Reps__del_Grupo_de_Poincare.pdf)
+[Cl9: Grupo y Álgebra de Poincaré](clases/Clase_9_Intro_Rel_II_Reps__del_Grupo_de_Poincare.pdf)
 
 ## Como crear un folder nuevo:
 
