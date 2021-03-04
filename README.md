@@ -33,7 +33,7 @@
 
 [Cl9: Grupo y Álgebra de Poincaré](clases/Clase_9_Intro_Rel_II_Reps__del_Grupo_de_Poincare.pdf)
 
-[Cl10: Representaciones del Álgebra de Poincaré](Clase_10_Intro_Rel_II_Reps__del_Grupo_de_Poincar__II.pdf)
+[Cl10: Representaciones del Álgebra de Poincaré](clases/Clase_10_Intro_Rel_II_Reps__del_Grupo_de_Poincar__II.pdf)
 
 ## Como crear un folder nuevo:
 
