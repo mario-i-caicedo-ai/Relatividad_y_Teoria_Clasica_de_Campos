@@ -35,6 +35,8 @@
 
 [Cl10: Representaciones del Álgebra de Poincaré](clases/Clase_10_Intro_Rel_II_Reps__del_Grupo_de_Poincar__II.pdf)
 
+[Cl11: Grupo_de_Lorentz_y_Transfromaciones de_Campos](clases/Clase_11_Intro_Rel_II_Grupo_de_Lorentz_y_Transfromaci_n_de_Campos.pdf)
+
 ## Como crear un folder nuevo:
 
 * You cannot create an empty folder and then add files to that folder, but rather creation of a folder must happen together with adding of at least a single file. On GitHub you can do it this way:
